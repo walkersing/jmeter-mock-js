@@ -9,7 +9,10 @@ jmeter mock
 
 ```
 MOCK 函数使用 mockjs
-https://github.com/nuysoft/Mock/wiki/Getting-Started
+官网：https://github.com/nuysoft/Mock/wiki/Getting-Started
+
+使用： http://mockjs.com/examples.html#Random\.ip\(\)
+
 ```
 
 ### mock 一个 ip 出来
