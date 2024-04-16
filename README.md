@@ -8,7 +8,7 @@ jmeter mock
 ```
 
 ```
-都是参考 mockjs
+MOCK 函数使用 mockjs
 https://github.com/nuysoft/Mock/wiki/Getting-Started
 ```
 
