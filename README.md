@@ -2,6 +2,12 @@
 jmeter mock
 
 ```
+1、使用 jmeter 5.6.3 版本
+2、下载当前 mock-jmeter-walker-1.0.jar, 放到 jmeter/lib/ext/ 文件夹下
+3、重启 jmeter
+```
+
+```
 都是参考 mockjs
 https://github.com/nuysoft/Mock/wiki/Getting-Started
 ```
